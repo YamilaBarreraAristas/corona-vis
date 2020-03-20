@@ -1,6 +1,6 @@
-var json_ide_centros_de_salud_no_dependientes_del_estado_4 = {
+var json_Centrosdesaludprivados_4 = {
 "type": "FeatureCollection",
-"name": "ide_centros_de_salud_no_dependientes_del_estado_4",
+"name": "Centrosdesaludprivados_4",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "NOMBRE": "ALPI - INSTITUTO DE REHABILITACION MARCELO FITTE - Sede Central", "CALLE": "SOLER", "ALTURA": "3945", "PISO": null, "DIRECCION": "3945 SOLER", "TELEFONOS": "4821-1200 \/ 4823-6244", "OBSERV": "Noviembre 2012:OK" }, "geometry": { "type": "Point", "coordinates": [ -58.41733346627823, -34.59162999000332 ] } },

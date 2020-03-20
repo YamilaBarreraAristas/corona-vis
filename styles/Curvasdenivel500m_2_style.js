@@ -1,7 +1,7 @@
 var size = 0;
 var placement = 'point';
 
-var style_ide_centros_de_salud_no_dependientes_del_estado_14 = function(feature, resolution){
+var style_Curvasdenivel500m_2 = function(feature, resolution){
     var context = {
         feature: feature,
         variables: {}
@@ -21,8 +21,7 @@ var style_ide_centros_de_salud_no_dependientes_del_estado_14 = function(feature,
         labelText = String("");
     }
     var style = [ new ol.style.Style({
-        image: new ol.style.Circle({radius: 4.0 + size,
-            stroke: new ol.style.Stroke({color: 'rgba(35,35,35,1.0)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0}), fill: new ol.style.Fill({color: 'rgba(87,116,217,1.0)'})}),
+        stroke: new ol.style.Stroke({color: 'rgba(35,35,35,1.0)', lineDash: null, lineCap: 'butt', lineJoin: 'miter', width: 0}),fill: new ol.style.Fill({color: 'rgba(225,89,137,0.03529411764705882)'}),
         text: createTextStyle(feature, resolution, labelText, labelFont,
                               labelFill, placement, bufferColor,
                               bufferWidth)

@@ -1,6 +1,6 @@
-var json_random_points_caba_13 = {
+var json_Personasinfectadas_3 = {
 "type": "FeatureCollection",
-"name": "random_points_caba_13",
+"name": "Personasinfectadas_3",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "id": "8" }, "geometry": { "type": "Point", "coordinates": [ -58.388343729399118, -34.610071015930821 ] } },

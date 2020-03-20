@@ -1,6 +1,6 @@
-var json_Curvasdenivel_12 = {
+var json_Curvasdenivel500m_2 = {
 "type": "FeatureCollection",
-"name": "Curvasdenivel_12",
+"name": "Curvasdenivel500m_2",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
 { "type": "Feature", "properties": { "id": "4", "cost_level": 2500.0 }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -58.48873786722119, -34.689321455084773 ], [ -58.488735935781818, -34.689380222726761 ], [ -58.488736784982017, -34.689380990237375 ], [ -58.488745178888706, -34.68938033736336 ], [ -58.48873786722119, -34.689321455084773 ] ] ] ] } },
